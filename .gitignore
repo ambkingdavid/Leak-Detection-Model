@@ -1,1 +1,32 @@
-/myenv
+# This is a .gitignore file for a Python project
+# It specifies files and directories that should be ignored by Git
+# when committing changes to the repository.
+# Common Python files and directories to ignore
+# Python bytecode files
+my_dir/
+venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.log
+*.sqlite3
+*.egg-info/
+*.DS_Store
+*.env
+*.coverage
+*.idea/
+*.vscode/
+*.pytest_cache/
+*.mypy_cache/
+*.tox/
+*.dist-info/
+*.egg
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.swp
+*.tmp
