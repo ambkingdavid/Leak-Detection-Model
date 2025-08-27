@@ -3,6 +3,17 @@
 # when committing changes to the repository.
 # Common Python files and directories to ignore
 # Python bytecode files
+lstm_leak_detection.ipynb
+data_generation.ipynb
+learning_curve.png
+lstm.ipynb
+simulated_multiphase_pipeline_data_realistic.csv
+simulated_multiphase_pipeline_time_series_data.csv
+my_tuner_dir_no_smote/
+my_tuner_dir_with_smote
+my_tuner_dir/
+keras_tuner_no_resample_dir/
+keras_tuner_dir/
 my_dir/
 venv/
 *.pyc
